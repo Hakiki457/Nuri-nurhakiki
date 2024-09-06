@@ -1,0 +1,37 @@
+1.Algoritma menentukan bilangan ganjil &genap
+JAWAB:
+#INISIASI
+-masukkan angka yang akan di bagi
+#PROSES
+-misalkan 10 dibagi 2=5 maka sisanya adalah 0
+maka angka tsb bisa dikatakan sebagai bilangan
+genap.
+#OUTFUT
+-jika angka tsb sudah dibagi maka kita bisa 
+menentukannya
+2.Algoritma menentukan luas lingkaran
+JAWAB:
+#INISIASI
+-membuat lingkaran terlebih dahulu
+-ambil nilai" jari lingkaran
+-dihitung luas lingkaran yang berada di dalam
+lingkaran phi
+#PROSES
+-jari"=10,maka luas=3,14•10•10=314
+#OUTFUT
+-menghitung luas sehingga bisa menampilkan
+luas.
+3.Menentukan semester mahasiswa berdasarkan
+tahun masuk
+JAWAB:
+#INISIASI
+-tahun mahasiswa mulai masuk
+-hitung selisih tahun masuknya dengan setiap
+tahun ada 2 semester
+#PROSES
+-jika mahasiswa mulai masuk pada semester
+genap,maka masa perkuliahan pada masa 
+semester 2,4,6 bisa diselenggarakan antara bulan
+februari sampai agustus.
+#OUTFUT
+-semester mahasiswa
